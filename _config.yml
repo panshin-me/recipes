@@ -1,5 +1,4 @@
 title: "Panshin&#039;s Tummy &#8211; Healthy Food, for a Good Mood"
-jekyll_assets: false
 excerpt_separator: <!--more-->
 plugins:
   - jekyll-assets

@@ -19,16 +19,11 @@ layout: default
     </header><!-- .entry-header -->
 
     {% if post.image.feature %}
-    <div class="single-thumb">
-        {% include image.html
-        src=page.image.feature
-        width="1040"
-        height="785"
-        class="attachment-oblique-single-thumb size-oblique-single-thumb wp-post-image"
-        srcset="2129, 300, 768, 1024, 397"
-        sizes="(max-width: 1040px) 100vw, 1040px"
-        %}
-    </div>
+    <!-- <img width="1040" height="785" src="{{ page.image.feature }}" class="attachment-oblique-single-thumb size-oblique-single-thumb wp-post-image"
+        alt="" srcset="http://www.recipes.panshin.me/wp-content/uploads/2016/12/img_6814.jpg 2129w, http://www.recipes.panshin.me/wp-content/uploads/2016/12/img_6814-300x227.jpg 300w, http://www.recipes.panshin.me/wp-content/uploads/2016/12/img_6814-768x580.jpg 768w, http://www.recipes.panshin.me/wp-content/uploads/2016/12/img_6814-1024x773.jpg 1024w, http://www.recipes.panshin.me/wp-content/uploads/2016/12/img_6814-397x300.jpg 397w"
+        sizes="(max-width: 1040px) 100vw, 1040px" /> -->
+    <img width="1040" height="785" src="/assets/images/{{ page.image.feature }}" class="attachment-oblique-single-thumb size-oblique-single-thumb wp-post-image"
+        sizes="(max-width: 1040px) 100vw, 1040px" />
     {% endif %}
 
     <div class="entry-content">

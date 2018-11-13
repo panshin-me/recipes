@@ -11,14 +11,11 @@
 
     {% if post.image.feature %}
     <div class="entry-thumb">
-        {% include image.html
-        src=post.image.feature
-        width="370"
-        height="279"
-        class="attachment-oblique-entry-thumb size-oblique-entry-thumb wp-post-image"
-        srcset="2129, 300, 768, 1024, 397"
-        sizes="(max-width: 370px) 100vw, 370px"
-        %}
+        <!-- <img width="370" height="279" src="http://www.recipes.panshin.me/wp-content/uploads/2016/12/img_6814.jpg" class="attachment-oblique-entry-thumb size-oblique-entry-thumb wp-post-image"
+            alt="" srcset="http://www.recipes.panshin.me/wp-content/uploads/2016/12/img_6814.jpg 2129w, http://www.recipes.panshin.me/wp-content/uploads/2016/12/img_6814-300x227.jpg 300w, http://www.recipes.panshin.me/wp-content/uploads/2016/12/img_6814-768x580.jpg 768w, http://www.recipes.panshin.me/wp-content/uploads/2016/12/img_6814-1024x773.jpg 1024w, http://www.recipes.panshin.me/wp-content/uploads/2016/12/img_6814-397x300.jpg 397w"
+            sizes="(max-width: 370px) 100vw, 370px" /> -->
+        <img width="370" height="279" src="/assets/images/{{ post.image.feature }}" class="attachment-oblique-entry-thumb size-oblique-entry-thumb wp-post-image"
+                        sizes="(max-width: 370px) 100vw, 370px" />
         <a href="{{ post.url }}" title="{{ post.title }}" class="thumb-link-wrap">
             <span class="thumb-link"><i class="fa fa-link"></i></span>
         </a>
