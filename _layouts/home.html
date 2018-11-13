@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div id="ob-grid" class="grid-layout">
+    {% for post in site.posts limit:13 %}
+    {% include post-preview.html %}
+    {% endfor %}
+</div>
+<!-- 
+<nav class="navigation posts-navigation" role="navigation">
+    <h2 class="screen-reader-text">Posts navigation</h2>
+    <div class="nav-links">
+        <div class="nav-previous"><a href="http://www.recipes.panshin.me/page/2/">Older posts</a></div>
+    </div>
+</nav> -->

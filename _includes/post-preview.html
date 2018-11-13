@@ -1,0 +1,54 @@
+<article class="post type-post status-publish format-standard {% if post.image.feature %}has-post-thumbnail{% endif %} sticky hentry post-preview">
+    <div class="svg-container post-svg svg-block">
+
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1950 150">
+            <g transform="translate(0,-902.36218)" />
+            <path d="m 898.41609,-33.21176 0.01,0 -0.005,-0.009 -0.005,0.009 z" />
+            <path d="m 898.41609,-33.21176 0.01,0 -0.005,-0.009 -0.005,0.009 z" />
+            <path d="M 0,150 0,0 1925,0" />
+        </svg>
+    </div>
+
+    {% if post.image.feature %}
+    <div class="entry-thumb">
+        {% include image.html
+        src=post.image.feature
+        width="370"
+        height="279"
+        class="attachment-oblique-entry-thumb size-oblique-entry-thumb wp-post-image"
+        srcset="2129, 300, 768, 1024, 397"
+        sizes="(max-width: 370px) 100vw, 370px"
+        %}
+        <a href="{{ post.url }}" title="{{ post.title }}" class="thumb-link-wrap">
+            <span class="thumb-link"><i class="fa fa-link"></i></span>
+        </a>
+    </div>
+    {% endif %}
+
+
+    <div class="post-inner">
+
+        <header class="entry-header">
+            <h2 class="entry-title"><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
+        </header><!-- .entry-header -->
+
+        {% if post.content contains site.excerpt_separator %}
+        <div class="entry-content">
+            {{ post.excerpt }}[&#8230;]
+        </div><!-- .entry-content -->
+        {% endif %}
+    </div>
+    <div class="entry-content">
+        <div class="read-more">
+            <a href="{{ post.url }}">Continue reading &hellip;</a>
+        </div>
+        <div class="svg-container post-bottom-svg svg-block">
+
+            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1890 150">
+                <g transform="translate(0,-902.36218)" />
+                <path d="m 898.41609,-33.21176 0.01,0 -0.005,-0.009 -0.005,0.009 z" />
+                <path d="m 898.41609,-33.21176 0.01,0 -0.005,-0.009 -0.005,0.009 z" />
+                <path d="m 1925,0 0,150 -1925,0" />
+            </svg>
+        </div>
+</article><!-- #post-## -->

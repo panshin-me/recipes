@@ -1,0 +1,5 @@
+{% if site.jekyll_assets %}
+    {% asset_path {{include.file}} %}
+{% else %}
+    /assets/{{include.type}}/{{include.file}}
+{% endif %}

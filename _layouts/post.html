@@ -1,0 +1,62 @@
+---
+layout: default
+---
+<div class="svg-container single-post-svg svg-block">
+
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1890 150">
+        <g transform="translate(0,-902.36218)" />
+        <path d="m 898.41609,-33.21176 0.01,0 -0.005,-0.009 -0.005,0.009 z" />
+        <path d="m 898.41609,-33.21176 0.01,0 -0.005,-0.009 -0.005,0.009 z" />
+        <path d="m 1925,0 0,150 -1925,0" />
+    </svg>
+</div>
+<article class="post type-post status-publish format-standard has-post-thumbnail hentry">
+
+    <header class="entry-header">
+        <h1 class="entry-title">{{ page.title }}</h1>
+        <div class="entry-meta">
+        </div><!-- .entry-meta -->
+    </header><!-- .entry-header -->
+
+    {% if post.image.feature %}
+    <div class="single-thumb">
+        {% include image.html
+        src=page.image.feature
+        width="1040"
+        height="785"
+        class="attachment-oblique-single-thumb size-oblique-single-thumb wp-post-image"
+        srcset="2129, 300, 768, 1024, 397"
+        sizes="(max-width: 1040px) 100vw, 1040px"
+        %}
+    </div>
+    {% endif %}
+
+    <div class="entry-content">
+        {{ content }}
+    </div><!-- .entry-content -->
+
+    <footer class="entry-footer">
+    </footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+<div class="svg-container single-post-svg single-svg-bottom svg-block">
+
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1920 150">
+        <g transform="translate(0,-902.36218)" />
+        <path d="m 898.41609,-33.21176 0.01,0 -0.005,-0.009 -0.005,0.009 z" />
+        <path d="m 898.41609,-33.21176 0.01,0 -0.005,-0.009 -0.005,0.009 z" />
+        <path d="M 0,150 0,0 1925,0" />
+    </svg>
+</div>
+
+<nav class="navigation post-navigation" role="navigation">
+    <h2 class="screen-reader-text">Post navigation</h2>
+    <div class="nav-links">
+        {% if page.previous.url %}
+        <div class="nav-previous"><a href="{{page.previous.url}}" rel="prev">{{page.previous.title}}</a></div>
+        {% endif %}
+        {% if page.next.url %}
+        <div class="nav-next"><a href="{{page.next.url}}" rel="next">{{page.next.title}}</a></div>
+        {% endif %}
+
+    </div>
+</nav>
