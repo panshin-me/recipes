@@ -6,30 +6,57 @@ tags: [ ]
 categories:
     - breakfast
 ---
-&nbsp;
 
-The day before stir together: 
+SPELT SOURDOUGH BREAD My description recipe 
+Measure 350 ml of filtered water (at room temperature) and place it into a glass bowl. Stir in 2 tablespoons of raw honey, until it melts and turns into a liquid
+
+-IMAGE-
+
+Add 80 gr (4 full tbsp) of sourdough starter to the water mixture and mix well.
+
+**Learn how to make your own sourdough starter here
+
+-IMAGE-
+
+Measure out 600 grams of 100% whole spelt flour and add to it 10 grams of sea salt and stir.
+
+Incorporate the flour gently into the water mixture, slightly mixing with a spoon the wet dough.
+
+Pour the whole wet dough into a mixer (I use Kenwood Chef) and let it mix for 7-10 minutes until all blended. 
+The dough will be rather sticky and rather soft. Cover and let rest for 10 minutes. This will help to absorb the water properly and develop the gluten. 
+
+Meanwhile feed your Sourdough Starter with the same amount of flour and water ( add 80gr of Rye flour + 80gr of filtered water)
+
+Now go back to the dough and turn on the mixer on low power.
+Knead again for 5 minutes. You will probably note that the consistency has changed and that the dough feels a little bit firmer. But if its still soft let it mix until the dough combined into a ball. You know its enough when the dough is firm, sticky and elastic.
+-IMAGE-
+
+Put a little oil on a baking paper and your hands so the dough doesn't stick. And pick it up to fold into the baking paper, on flat surface. 
+
+ Pick up the dough, stretch it,  then fold it. And stretch once again in the opposite direction. I do it 3-4 times.
+
+**Possible: give the dough an hour rest and then - repeat the process of folding. ( or use a mixer again) 
+
+Place the dough into the glass bread baking bowl or cast iron pan and cover. Allow it to sit overnight between 8-12 hours.
+
+It should double in size, but it all depends on the weather and how warm your kitchen is.
+This is how my dough look like in the morning after 12 hours.-IMAGE-
+
+Bake in preheated oven with a water bath on 420º F for 15min with a lid. 
+Then reduce the temperature to 400F and bake for another 25-30 min 
+I also allow it to bake without the lid for additional 5-10 minutes (or until the internal temperature reaches 195º-200º F). Overall around 45min baking. 
+
+Take out of the oven and let it cool a little before serving 
+
+ 
+
+More recipes: https://wholelifestylenutrition.com/recipes/how-to-make-a-real-sourdough-spelt-loaf/
 
 
-  500 g spelt flour
+
+https://www.youtube.com/watch?v=2FVfJTGpXnU
 
 
-  100gr sourdough starter (from rye flour and water)
 
-
-  250ml ml water
-
-
-  1 teaspoon of salt. 
-
-
-  Optional: 1 tbsp of honey or Molasses
-
-
-Mix in Kenwood Chef for 10 minutes &#8211; it will be rather sticky (especially because of the rye flour) and rather soft. Cover and let rest for 10 minutes. This will help to absorb the water properly and � develop the gluten. Knead again for one minute. You will probably note that the consistency has changed and that the dough feels a little bit firmer. But it still will be rather soft.
-
-Line a glass loaf pan with parchment paper. (Sourdough can be a little hard on your pans. That’s why you shouldn’t grease the pan but use some parchment instead.) Transfer the dough to the pan using wet hands and slightly press to shape it a bit. Cover it with a plastic wrap and let sit for a night ( I gave it 12h-14h ) or until the dough rise ⅕ or doubled in size   Preheat the oven to 180°C (350°F) and bake for 45 min-55 min or until looks brown and a toothpick inserted comes out clean. (Even better if have a meat thermometer – it will finally be useful – you can insert into the loaf. The temperature should be 93°C (200°F).   Tip: so the loaf edges does not come too crispy I put another pan with water on the bottom of the oven. 
 
 Let the loaf cool completely before slicing. You can also wait a whole day to cut this bread, this will improve the flavour.
-
-&nbsp;
