@@ -32,8 +32,17 @@ The post content is in markdown format:
 [Basic Syntax](https://www.markdownguide.org/basic-syntax)
 
 ## Add Image
-Upload images to a folder `assets/images/`
-And insert the image to the post with the markdown:
+- Upload images to a folder `assets/images/`
+- Insert the image to the post with the markdown:
 ```
 ![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
+```
+Please use relative pathes like `assets/images/image-name.jpg`.
+## Add Category
+- Create a file in the folder: `_category` with category lowercase category name.
+- Add to the file Front Matter with a name of the category.
+```
+---
+name: Brekfast
+---
 ```
