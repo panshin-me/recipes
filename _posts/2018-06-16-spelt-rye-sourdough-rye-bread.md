@@ -5,7 +5,7 @@ author: Victoria
 tags: [ ]
 categories: [breakfast, bread]
 image:
-    - feature: PSX_20181112_095230.jpg
+    feature: PSX_20181112_095230.jpg
 ---
 
 SPELT SOURDOUGH RYE BREAD
