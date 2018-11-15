@@ -3,9 +3,7 @@ layout: post
 title: 'SPELT & RYE SOURDOUGH (RYE) BREAD'
 author: Victoria
 tags: [ ]
-categories:
-    - breakfast
-    - bread
+categories: [breakfast, bread]
 image:
     - feature: PSX_20181112_095230.jpg
 ---
