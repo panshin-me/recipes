@@ -9,6 +9,7 @@ categories:
 
 SPELT SOURDOUGH RYE BREAD
 
+![SOURDOUGH!](/assets/images/PSX_20181112_095230.jpg "SOURDOUGH")
 ![SPELT SOURDOUGH RYE BREAD!](/assets/images/PSX_20181114_201525.jpg "SPELT SOURDOUGH RYE BREAD")
 
 1. Measure 350 ml of filtered water (at room temperature) and place it into a glass bowl. Stir in 2 tablespoons of raw honey, until it melts and turns into a liquid
